@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  background: #eef1f0;
+  color: #111827;
+  font-family: "Readex Pro", system-ui, "Segoe UI", "Noto Sans Arabic", sans-serif;
+}
